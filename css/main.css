@@ -824,8 +824,8 @@ header .logo a {
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 189px;
-	height: 189px;
+	width: 132px;
+	height: 60px;
 	background-repeat: no-repeat;
 	background-position: 0 0;
 	background-image: url("../images/logo-type-01.png");
@@ -833,9 +833,9 @@ header .logo a {
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
 	header .logo a {
 		background-image: url("../images/logo-type-01.png");
-		-webkit-background-size: 189px 189px;
-		-moz-background-size: 189px 189px;
-		background-size: 189px 189px;
+		-webkit-background-size: 132px 60px;
+		-moz-background-size: 132px 60px;
+		background-size: 132px 60px;
 	}
 }
 .opaque {
