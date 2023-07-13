@@ -55,21 +55,5 @@ Javascript Files:
 
 
 --------------------------------------------------------------------------------------------------------- 
-
-SOCIAL:
-
-Stay up to date and get notified of new template releases. 
-Subscribe and follow us on:
-
-- GooglePlus (https://plus.google.com/+Styleshout-googleplus/)
-- Twitter (https://twitter.com/sshout06)
-- facebook (https://www.facebook.com/styleshout)
-
-
-
---------------------------------------------------------------------------------------------------------- 
-
-
-Thanks for downloading from Styleshout :)
   
 
